@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/audio">
+        <file>audio/bg_music.wav</file>
+        <file>audio/fffet.wav</file>
+        <file>audio/AITA_2.0.mp3</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,65 @@
+<RCC>
+    <qresource prefix="/backgrounds">
+        <file>imgs/BG.png</file>
+        <file>imgs/ScoreFliped.png</file>
+        <file>imgs/ScoreNormal.png</file>
+        <file>imgs/best_psd_1.png</file>
+        <file>imgs/btn-bck.png</file>
+        <file>imgs/btns/full-screen.png</file>
+        <file>imgs/btns/mute.png</file>
+        <file>imgs/btns/volume-up.png</file>
+    </qresource>
+    <qresource prefix="/Cards">
+        <file>imgs/00.png</file>
+        <file>imgs/01.png</file>
+        <file>imgs/02.png</file>
+        <file>imgs/03.png</file>
+        <file>imgs/04.png</file>
+        <file>imgs/05.png</file>
+        <file>imgs/06.png</file>
+        <file>imgs/07.png</file>
+        <file>imgs/08.png</file>
+        <file>imgs/09.png</file>
+        <file>imgs/10.png</file>
+        <file>imgs/11.png</file>
+        <file>imgs/12.png</file>
+        <file>imgs/13.png</file>
+        <file>imgs/14.png</file>
+        <file>imgs/15.png</file>
+        <file>imgs/16.png</file>
+        <file>imgs/17.png</file>
+        <file>imgs/18.png</file>
+        <file>imgs/19.png</file>
+        <file>imgs/20.png</file>
+        <file>imgs/21.png</file>
+        <file>imgs/22.png</file>
+        <file>imgs/23.png</file>
+        <file>imgs/24.png</file>
+        <file>imgs/25.png</file>
+        <file>imgs/26.png</file>
+        <file>imgs/27.png</file>
+        <file>imgs/28.png</file>
+        <file>imgs/29.png</file>
+        <file>imgs/30.png</file>
+        <file>imgs/31.png</file>
+        <file>imgs/32.png</file>
+        <file>imgs/33.png</file>
+        <file>imgs/34.png</file>
+        <file>imgs/35.png</file>
+        <file>imgs/36.png</file>
+        <file>imgs/37.png</file>
+        <file>imgs/38.png</file>
+        <file>imgs/39.png</file>
+        <file>imgs/black.png</file>
+    </qresource>
+    <qresource prefix="/Icons">
+        <file>imgs/close.png</file>
+        <file>imgs/closeH.png</file>
+        <file>imgs/home.png</file>
+        <file>imgs/homeH.png</file>
+        <file>imgs/muted.png</file>
+        <file>imgs/mutedH.png</file>
+        <file>imgs/notmuted.png</file>
+        <file>imgs/notmutedH.png</file>
+    </qresource>
+</RCC>
